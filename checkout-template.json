@@ -1,0 +1,4936 @@
+{
+  "version": "0.4",
+  "title": "Editable Bengali Product Checkout — Elementor Pro",
+  "type": "page",
+  "page_settings": {
+    "hide_title": "yes",
+    "template": "elementor_canvas"
+  },
+  "content": [
+    {
+      "id": "000000e",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "row": "16",
+          "column": "16",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "48",
+          "bottom": "48",
+          "left": "48",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "18",
+          "right": "18",
+          "bottom": "18",
+          "left": "18",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FFF4E7",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "000000d",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "row": "16",
+              "column": "16",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "0000001",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "[BRAND NAME]",
+                "header_size": "div",
+                "align": "center",
+                "title_color": "#FF4B1B",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000002",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "[আপনার ব্র্যান্ডের ট্যাগলাইন]",
+                "header_size": "div",
+                "align": "center",
+                "title_color": "#FF4B1B",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000003",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "এক ঢোকেই <span style=\"color:#FF9F08\">সতেজতা!</span>",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#FF4B1B",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 62,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000004",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "[আপনার পণ্যের প্রধান বার্তা]",
+                "header_size": "div",
+                "align": "center",
+                "title_color": "#234C2E",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000006",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "24",
+                  "right": "24",
+                  "bottom": "24",
+                  "left": "24",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFFFFF",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "3",
+                  "isLinked": false
+                },
+                "border_color": "#FF4B1B",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000005",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>[DESCRIPTION] — এখানে আপনার পণ্যের সংক্ষিপ্ত পরিচিতি লিখুন। উপাদান, ব্যবহার ও বৈশিষ্ট্যের সঠিক তথ্য দিন।</p>",
+                    "align": "center",
+                    "text_color": "#542B17",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.65,
+                      "sizes": []
+                    },
+                    "custom_css": "selector p:last-child {margin-bottom:0;}"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "0000009",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_justify_content": "center",
+                "flex_wrap": "wrap"
+              },
+              "elements": [
+                {
+                  "id": "0000007",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "অর্ডার করুন",
+                    "link": {
+                      "url": "#order",
+                      "is_external": "",
+                      "nofollow": ""
+                    },
+                    "align": "center",
+                    "button_text_color": "#FFFFFF",
+                    "background_color": "#FF4B1B",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "50",
+                      "right": "50",
+                      "bottom": "50",
+                      "left": "50",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "14",
+                      "right": "28",
+                      "bottom": "14",
+                      "left": "28",
+                      "isLinked": false
+                    },
+                    "custom_css": "selector .elementor-button {background:linear-gradient(105deg,#ff491a,#ff9e06); max-width:100%;} selector .elementor-button:focus-visible {outline:3px solid #542b17; outline-offset:4px;}"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0000008",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "বিস্তারিত দেখুন",
+                    "link": {
+                      "url": "#ingredients",
+                      "is_external": "",
+                      "nofollow": ""
+                    },
+                    "align": "center",
+                    "button_text_color": "#FFFFFF",
+                    "background_color": "#FF4B1B",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 18,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "50",
+                      "right": "50",
+                      "bottom": "50",
+                      "left": "50",
+                      "isLinked": true
+                    },
+                    "text_padding": {
+                      "unit": "px",
+                      "top": "14",
+                      "right": "28",
+                      "bottom": "14",
+                      "left": "28",
+                      "isLinked": false
+                    },
+                    "custom_css": "selector .elementor-button {background:linear-gradient(105deg,#ff491a,#ff9e06); max-width:100%;} selector .elementor-button:focus-visible {outline:3px solid #542b17; outline-offset:4px;}"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "000000c",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "12",
+                  "bottom": "12",
+                  "left": "12",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "12",
+                  "bottom": "12",
+                  "left": "12",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFF0DD",
+                "min_height": {
+                  "unit": "px",
+                  "size": 320,
+                  "sizes": []
+                },
+                "flex_justify_content": "center",
+                "flex_align_items": "center",
+                "border_border": "dashed",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#D8B38C",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "000000a",
+                  "elType": "widget",
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "",
+                      "id": ""
+                    },
+                    "image_size": "full",
+                    "align": "center"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000000b",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "[আপনার ব্র্যান্ডের লাইফস্টাইল / হিরো ছবি]",
+                    "header_size": "div",
+                    "align": "center",
+                    "title_color": "#8A5A37",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000041",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "row": "16",
+          "column": "16",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "48",
+          "bottom": "48",
+          "left": "48",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "18",
+          "right": "18",
+          "bottom": "18",
+          "left": "18",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FBF7EF",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        },
+        "_element_id": "ingredients"
+      },
+      "elements": [
+        {
+          "id": "0000040",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "row": "16",
+              "column": "16",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "0000039",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "What's Inside [BRAND NAME]?",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#542B17",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "000003a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>[আপনার পণ্যের উপাদান সম্পর্কে সংক্ষিপ্ত পরিচিতি]</p>",
+                "align": "center",
+                "text_color": "#542B17",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65,
+                  "sizes": []
+                },
+                "custom_css": "selector p:last-child {margin-bottom:0;}"
+              },
+              "elements": []
+            },
+            {
+              "id": "000003b",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "20",
+                  "column": "20",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_wrap": "wrap",
+                "flex_gap_mobile": {
+                  "unit": "px",
+                  "row": "14",
+                  "column": "14",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000015",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "flex_align_items": "center",
+                    "border_border": "solid",
+                    "border_color": "#FFE5DA",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 5,
+                      "blur": 14,
+                      "spread": 0,
+                      "color": "rgba(132,70,20,0.06)"
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "000000f",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "01",
+                        "header_size": "div",
+                        "align": "right",
+                        "title_color": "#FF4B1B",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000012",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "px",
+                          "size": 112,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFF0DD",
+                        "min_height": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "border_border": "dashed",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#D8B38C",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "100",
+                          "right": "100",
+                          "bottom": "100",
+                          "left": "100",
+                          "isLinked": true
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "0000010",
+                          "elType": "widget",
+                          "widgetType": "image",
+                          "settings": {
+                            "image": {
+                              "url": "",
+                              "id": ""
+                            },
+                            "image_size": "full",
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000011",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[ছবি 1]",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#8A5A37",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0000013",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[উপাদান 1]",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#542B17",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000014",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[এই উপাদানের যাচাইকৃত বিবরণ লিখুন]</p>",
+                        "align": "center",
+                        "text_color": "#8A6850",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "000001c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "flex_align_items": "center",
+                    "border_border": "solid",
+                    "border_color": "#FFE5DA",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 5,
+                      "blur": 14,
+                      "spread": 0,
+                      "color": "rgba(132,70,20,0.06)"
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000016",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "02",
+                        "header_size": "div",
+                        "align": "right",
+                        "title_color": "#FF4B1B",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000019",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "px",
+                          "size": 112,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFF0DD",
+                        "min_height": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "border_border": "dashed",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#D8B38C",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "100",
+                          "right": "100",
+                          "bottom": "100",
+                          "left": "100",
+                          "isLinked": true
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "0000017",
+                          "elType": "widget",
+                          "widgetType": "image",
+                          "settings": {
+                            "image": {
+                              "url": "",
+                              "id": ""
+                            },
+                            "image_size": "full",
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000018",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[ছবি 2]",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#8A5A37",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "000001a",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[উপাদান 2]",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#542B17",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "000001b",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[এই উপাদানের যাচাইকৃত বিবরণ লিখুন]</p>",
+                        "align": "center",
+                        "text_color": "#8A6850",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000023",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "flex_align_items": "center",
+                    "border_border": "solid",
+                    "border_color": "#FFE5DA",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 5,
+                      "blur": 14,
+                      "spread": 0,
+                      "color": "rgba(132,70,20,0.06)"
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "000001d",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "03",
+                        "header_size": "div",
+                        "align": "right",
+                        "title_color": "#FF4B1B",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000020",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "px",
+                          "size": 112,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFF0DD",
+                        "min_height": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "border_border": "dashed",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#D8B38C",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "100",
+                          "right": "100",
+                          "bottom": "100",
+                          "left": "100",
+                          "isLinked": true
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "000001e",
+                          "elType": "widget",
+                          "widgetType": "image",
+                          "settings": {
+                            "image": {
+                              "url": "",
+                              "id": ""
+                            },
+                            "image_size": "full",
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "000001f",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[ছবি 3]",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#8A5A37",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0000021",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[উপাদান 3]",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#542B17",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000022",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[এই উপাদানের যাচাইকৃত বিবরণ লিখুন]</p>",
+                        "align": "center",
+                        "text_color": "#8A6850",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "000002a",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "flex_align_items": "center",
+                    "border_border": "solid",
+                    "border_color": "#FFE5DA",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 5,
+                      "blur": 14,
+                      "spread": 0,
+                      "color": "rgba(132,70,20,0.06)"
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000024",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "04",
+                        "header_size": "div",
+                        "align": "right",
+                        "title_color": "#FF4B1B",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000027",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "px",
+                          "size": 112,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFF0DD",
+                        "min_height": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "border_border": "dashed",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#D8B38C",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "100",
+                          "right": "100",
+                          "bottom": "100",
+                          "left": "100",
+                          "isLinked": true
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "0000025",
+                          "elType": "widget",
+                          "widgetType": "image",
+                          "settings": {
+                            "image": {
+                              "url": "",
+                              "id": ""
+                            },
+                            "image_size": "full",
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000026",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[ছবি 4]",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#8A5A37",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0000028",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[উপাদান 4]",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#542B17",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000029",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[এই উপাদানের যাচাইকৃত বিবরণ লিখুন]</p>",
+                        "align": "center",
+                        "text_color": "#8A6850",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000031",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "flex_align_items": "center",
+                    "border_border": "solid",
+                    "border_color": "#FFE5DA",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 5,
+                      "blur": 14,
+                      "spread": 0,
+                      "color": "rgba(132,70,20,0.06)"
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "000002b",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "05",
+                        "header_size": "div",
+                        "align": "right",
+                        "title_color": "#FF4B1B",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "000002e",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "px",
+                          "size": 112,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFF0DD",
+                        "min_height": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "border_border": "dashed",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#D8B38C",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "100",
+                          "right": "100",
+                          "bottom": "100",
+                          "left": "100",
+                          "isLinked": true
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "000002c",
+                          "elType": "widget",
+                          "widgetType": "image",
+                          "settings": {
+                            "image": {
+                              "url": "",
+                              "id": ""
+                            },
+                            "image_size": "full",
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "000002d",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[ছবি 5]",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#8A5A37",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "000002f",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[উপাদান 5]",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#542B17",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000030",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[এই উপাদানের যাচাইকৃত বিবরণ লিখুন]</p>",
+                        "align": "center",
+                        "text_color": "#8A6850",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000038",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "flex_align_items": "center",
+                    "border_border": "solid",
+                    "border_color": "#FFE5DA",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "30",
+                      "right": "30",
+                      "bottom": "30",
+                      "left": "30",
+                      "isLinked": true
+                    },
+                    "box_shadow_box_shadow_type": "yes",
+                    "box_shadow_box_shadow": {
+                      "horizontal": 0,
+                      "vertical": 5,
+                      "blur": 14,
+                      "spread": 0,
+                      "color": "rgba(132,70,20,0.06)"
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000032",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "06",
+                        "header_size": "div",
+                        "align": "right",
+                        "title_color": "#FF4B1B",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000035",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "px",
+                          "size": 112,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFF0DD",
+                        "min_height": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        },
+                        "flex_justify_content": "center",
+                        "flex_align_items": "center",
+                        "border_border": "dashed",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_color": "#D8B38C",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "100",
+                          "right": "100",
+                          "bottom": "100",
+                          "left": "100",
+                          "isLinked": true
+                        },
+                        "width_mobile": {
+                          "unit": "px",
+                          "size": 94,
+                          "sizes": []
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "0000033",
+                          "elType": "widget",
+                          "widgetType": "image",
+                          "settings": {
+                            "image": {
+                              "url": "",
+                              "id": ""
+                            },
+                            "image_size": "full",
+                            "align": "center"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000034",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[ছবি 6]",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#8A5A37",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 16,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0000036",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[উপাদান 6]",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#542B17",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000037",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[এই উপাদানের যাচাইকৃত বিবরণ লিখুন]</p>",
+                        "align": "center",
+                        "text_color": "#8A6850",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "000003e",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "28",
+                  "bottom": "28",
+                  "left": "28",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FFAF13",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "36",
+                  "right": "36",
+                  "bottom": "36",
+                  "left": "36",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "000003c",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "[উপাদানের সমন্বয় সম্পর্কে শিরোনাম]",
+                    "header_size": "h2",
+                    "align": "center",
+                    "title_color": "#542B17",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 23,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 23,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000003d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>[প্রকৃত উপাদান ও প্রাসঙ্গিক তথ্য এখানে লিখুন]</p>",
+                    "align": "center",
+                    "text_color": "#542B17",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.65,
+                      "sizes": []
+                    },
+                    "custom_css": "selector p:last-child {margin-bottom:0;}"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "000003f",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "অর্ডার করুন",
+                "link": {
+                  "url": "#order",
+                  "is_external": "",
+                  "nofollow": ""
+                },
+                "align": "center",
+                "button_text_color": "#FFFFFF",
+                "background_color": "#FF4B1B",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "9",
+                  "right": "9",
+                  "bottom": "9",
+                  "left": "9",
+                  "isLinked": true
+                },
+                "text_padding": {
+                  "unit": "px",
+                  "top": "14",
+                  "right": "28",
+                  "bottom": "14",
+                  "left": "28",
+                  "isLinked": false
+                },
+                "custom_css": "selector .elementor-button {background:linear-gradient(105deg,#ff491a,#ff9e06); max-width:100%;} selector .elementor-button:focus-visible {outline:3px solid #542b17; outline-offset:4px;}"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000005f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "row": "16",
+          "column": "16",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "48",
+          "bottom": "48",
+          "left": "48",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "18",
+          "right": "18",
+          "bottom": "18",
+          "left": "18",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#080604",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "000005e",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "row": "16",
+              "column": "16",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "000005c",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "26",
+                  "right": "26",
+                  "bottom": "26",
+                  "left": "26",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FF9F08",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "000005a",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "কেন [BRAND NAME]?",
+                    "header_size": "h2",
+                    "align": "center",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 36,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000005b",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>[আপনার পণ্য বেছে নেওয়ার কারণ]</p>",
+                    "align": "center",
+                    "text_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.65,
+                      "sizes": []
+                    },
+                    "custom_css": "selector p:last-child {margin-bottom:0;}"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "000005d",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "row",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "20",
+                  "column": "20",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_wrap": "wrap",
+                "flex_gap_mobile": {
+                  "unit": "px",
+                  "row": "14",
+                  "column": "14",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000045",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "22",
+                      "right": "22",
+                      "bottom": "22",
+                      "left": "22",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#542B17",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#86502D",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000042",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "01",
+                        "header_size": "div",
+                        "align": "left",
+                        "title_color": "#FF9F08",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000043",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[বৈশিষ্ট্য 1]",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000044",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[আপনার পণ্যের এই বৈশিষ্ট্য সম্পর্কে যাচাইকৃত তথ্য লিখুন। অনুমোদিত প্রমাণ ছাড়া চিকিৎসা বা স্বাস্থ্যগত দাবি যোগ করবেন না।]</p>",
+                        "align": "left",
+                        "text_color": "#F4DCC8",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000049",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "22",
+                      "right": "22",
+                      "bottom": "22",
+                      "left": "22",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#542B17",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#86502D",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000046",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "02",
+                        "header_size": "div",
+                        "align": "left",
+                        "title_color": "#FF9F08",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000047",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[বৈশিষ্ট্য 2]",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000048",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[আপনার পণ্যের এই বৈশিষ্ট্য সম্পর্কে যাচাইকৃত তথ্য লিখুন। অনুমোদিত প্রমাণ ছাড়া চিকিৎসা বা স্বাস্থ্যগত দাবি যোগ করবেন না।]</p>",
+                        "align": "left",
+                        "text_color": "#F4DCC8",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "000004d",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "22",
+                      "right": "22",
+                      "bottom": "22",
+                      "left": "22",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#542B17",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#86502D",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "000004a",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "03",
+                        "header_size": "div",
+                        "align": "left",
+                        "title_color": "#FF9F08",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "000004b",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[বৈশিষ্ট্য 3]",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "000004c",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[আপনার পণ্যের এই বৈশিষ্ট্য সম্পর্কে যাচাইকৃত তথ্য লিখুন। অনুমোদিত প্রমাণ ছাড়া চিকিৎসা বা স্বাস্থ্যগত দাবি যোগ করবেন না।]</p>",
+                        "align": "left",
+                        "text_color": "#F4DCC8",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000051",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "22",
+                      "right": "22",
+                      "bottom": "22",
+                      "left": "22",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#542B17",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#86502D",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "000004e",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "04",
+                        "header_size": "div",
+                        "align": "left",
+                        "title_color": "#FF9F08",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "000004f",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[বৈশিষ্ট্য 4]",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000050",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[আপনার পণ্যের এই বৈশিষ্ট্য সম্পর্কে যাচাইকৃত তথ্য লিখুন। অনুমোদিত প্রমাণ ছাড়া চিকিৎসা বা স্বাস্থ্যগত দাবি যোগ করবেন না।]</p>",
+                        "align": "left",
+                        "text_color": "#F4DCC8",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000055",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "22",
+                      "right": "22",
+                      "bottom": "22",
+                      "left": "22",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#542B17",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#86502D",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000052",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "05",
+                        "header_size": "div",
+                        "align": "left",
+                        "title_color": "#FF9F08",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000053",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[বৈশিষ্ট্য 5]",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000054",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[আপনার পণ্যের এই বৈশিষ্ট্য সম্পর্কে যাচাইকৃত তথ্য লিখুন। অনুমোদিত প্রমাণ ছাড়া চিকিৎসা বা স্বাস্থ্যগত দাবি যোগ করবেন না।]</p>",
+                        "align": "left",
+                        "text_color": "#F4DCC8",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000059",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "22",
+                      "right": "22",
+                      "bottom": "22",
+                      "left": "22",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#542B17",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#86502D",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 14px) / 2);}}"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000056",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "06",
+                        "header_size": "div",
+                        "align": "left",
+                        "title_color": "#FF9F08",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 20,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000057",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[বৈশিষ্ট্য 6]",
+                        "header_size": "h2",
+                        "align": "left",
+                        "title_color": "#FFFFFF",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 22,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "0000058",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[আপনার পণ্যের এই বৈশিষ্ট্য সম্পর্কে যাচাইকৃত তথ্য লিখুন। অনুমোদিত প্রমাণ ছাড়া চিকিৎসা বা স্বাস্থ্যগত দাবি যোগ করবেন না।]</p>",
+                        "align": "left",
+                        "text_color": "#F4DCC8",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000077",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "row": "16",
+          "column": "16",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "48",
+          "bottom": "48",
+          "left": "48",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "18",
+          "right": "18",
+          "bottom": "18",
+          "left": "18",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#080604",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "0000076",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "row": "16",
+              "column": "16",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "0000072",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "26",
+                  "right": "26",
+                  "bottom": "26",
+                  "left": "26",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#2F1002",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#80502B",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "000006b",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "12",
+                      "bottom": "12",
+                      "left": "12",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "12",
+                      "bottom": "12",
+                      "left": "12",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFF0DD",
+                    "min_height": {
+                      "unit": "px",
+                      "size": 300,
+                      "sizes": []
+                    },
+                    "flex_justify_content": "center",
+                    "flex_align_items": "center",
+                    "border_border": "dashed",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "1",
+                      "right": "1",
+                      "bottom": "1",
+                      "left": "1",
+                      "isLinked": true
+                    },
+                    "border_color": "#D8B38C",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000069",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "",
+                          "id": ""
+                        },
+                        "image_size": "full",
+                        "align": "center"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "000006a",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "[আপনার পণ্যের প্যাকশট]",
+                        "header_size": "div",
+                        "align": "center",
+                        "title_color": "#8A5A37",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 16,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "000006c",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "কীভাবে ব্যবহার করবেন?",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 36,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 30,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000006d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>[আপনার পণ্যের সঠিক ব্যবহারবিধি]</p>",
+                    "align": "left",
+                    "text_color": "#FF9F08",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.65,
+                      "sizes": []
+                    },
+                    "custom_css": "selector p:last-child {margin-bottom:0;}"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "000006e",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "row",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "20",
+                      "column": "20",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_wrap": "wrap",
+                    "flex_gap_mobile": {
+                      "unit": "px",
+                      "row": "14",
+                      "column": "14",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "0000062",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "%",
+                          "size": 100,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 28px) / 3);}}"
+                      },
+                      "elements": [
+                        {
+                          "id": "0000060",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "০১",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#FF9F08",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000061",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[প্রথম ধাপ]",
+                            "header_size": "h3",
+                            "align": "center",
+                            "title_color": "#FFFFFF",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0000065",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "%",
+                          "size": 100,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 28px) / 3);}}"
+                      },
+                      "elements": [
+                        {
+                          "id": "0000063",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "০২",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#FF9F08",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000064",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[দ্বিতীয় ধাপ]",
+                            "header_size": "h3",
+                            "align": "center",
+                            "title_color": "#FFFFFF",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0000068",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "content_width": "full",
+                        "width": {
+                          "unit": "%",
+                          "size": 100,
+                          "sizes": []
+                        },
+                        "flex_direction": "column",
+                        "flex_gap": {
+                          "unit": "px",
+                          "row": "16",
+                          "column": "16",
+                          "isLinked": true
+                        },
+                        "padding": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "padding_mobile": {
+                          "unit": "px",
+                          "top": "12",
+                          "right": "12",
+                          "bottom": "12",
+                          "left": "12",
+                          "isLinked": true
+                        },
+                        "custom_css": "selector {width:calc((100% - 40px) / 3); min-width:0;} @media(max-width:1024px) and (min-width:768px) {selector {width:calc((100% - 20px)/2);}} @media(max-width:767px) {selector {width:calc((100% - 28px) / 3);}}"
+                      },
+                      "elements": [
+                        {
+                          "id": "0000066",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "০৩",
+                            "header_size": "div",
+                            "align": "center",
+                            "title_color": "#FF9F08",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 20,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "0000067",
+                          "elType": "widget",
+                          "widgetType": "heading",
+                          "settings": {
+                            "title": "[তৃতীয় ধাপ]",
+                            "header_size": "h3",
+                            "align": "center",
+                            "title_color": "#FFFFFF",
+                            "typography_typography": "custom",
+                            "typography_font_family": "Hind Siliguri",
+                            "typography_font_size": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_size_mobile": {
+                              "unit": "px",
+                              "size": 19,
+                              "sizes": []
+                            },
+                            "typography_font_weight": "700",
+                            "typography_line_height": {
+                              "unit": "em",
+                              "size": 1.35,
+                              "sizes": []
+                            }
+                          },
+                          "elements": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "0000070",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "18",
+                      "right": "18",
+                      "bottom": "18",
+                      "left": "18",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#422007",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "12",
+                      "right": "12",
+                      "bottom": "12",
+                      "left": "12",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000006f",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<p>[প্রয়োজনীয় ব্যবহারসংক্রান্ত পরামর্শ]</p>",
+                        "align": "left",
+                        "text_color": "#FFE7C5",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 17,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 17,
+                          "sizes": []
+                        },
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65,
+                          "sizes": []
+                        },
+                        "custom_css": "selector p:last-child {margin-bottom:0;}"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000071",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "[এখানে একটি সংক্ষিপ্ত ব্র্যান্ড বার্তা লিখুন]",
+                    "header_size": "h2",
+                    "align": "center",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "0000075",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "22",
+                  "right": "22",
+                  "bottom": "22",
+                  "left": "22",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#130A04",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "border_color": "#5E4026",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "14",
+                  "right": "14",
+                  "bottom": "14",
+                  "left": "14",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000073",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "সংরক্ষণের নিয়ম",
+                    "header_size": "h2",
+                    "align": "left",
+                    "title_color": "#FFFFFF",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 23,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 23,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "700",
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.35,
+                      "sizes": []
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "0000074",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>[পণ্যের প্রকৃত সংরক্ষণবিধি, মেয়াদ ও সতর্কতা লিখুন]</p>",
+                    "align": "left",
+                    "text_color": "#F4DCC8",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Hind Siliguri",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 17,
+                      "sizes": []
+                    },
+                    "typography_line_height": {
+                      "unit": "em",
+                      "size": 1.65,
+                      "sizes": []
+                    },
+                    "custom_css": "selector p:last-child {margin-bottom:0;}"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "000007f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "row": "16",
+          "column": "16",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "48",
+          "bottom": "48",
+          "left": "48",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "18",
+          "right": "18",
+          "bottom": "18",
+          "left": "18",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FFF4E7",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        },
+        "_element_id": "order"
+      },
+      "elements": [
+        {
+          "id": "000007e",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "row": "16",
+              "column": "16",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "0000079",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "পরিবারের জন্য আপনার পছন্দের<br><span style=\"color:#FF4B1B\">[PRODUCT NAME]</span>",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#542B17",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "000007a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>[PRICE / CURRENCY] · [DELIVERY DETAILS]</p>",
+                "align": "center",
+                "text_color": "#75513A",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65,
+                  "sizes": []
+                },
+                "custom_css": "selector p:last-child {margin-bottom:0;}"
+              },
+              "elements": []
+            },
+            {
+              "id": "000007d",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "content_width": "full",
+                "width": {
+                  "unit": "%",
+                  "size": 100,
+                  "sizes": []
+                },
+                "flex_direction": "column",
+                "flex_gap": {
+                  "unit": "px",
+                  "row": "16",
+                  "column": "16",
+                  "isLinked": true
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "28",
+                  "right": "28",
+                  "bottom": "28",
+                  "left": "28",
+                  "isLinked": true
+                },
+                "padding_mobile": {
+                  "unit": "px",
+                  "top": "18",
+                  "right": "18",
+                  "bottom": "18",
+                  "left": "18",
+                  "isLinked": true
+                },
+                "background_background": "classic",
+                "background_color": "#FAFFFF",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "3",
+                  "right": "3",
+                  "bottom": "3",
+                  "left": "3",
+                  "isLinked": true
+                },
+                "border_color": "#FF4B1B",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "5",
+                  "right": "5",
+                  "bottom": "5",
+                  "left": "5",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "000007c",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "content_width": "full",
+                    "width": {
+                      "unit": "%",
+                      "size": 100,
+                      "sizes": []
+                    },
+                    "flex_direction": "column",
+                    "flex_gap": {
+                      "unit": "px",
+                      "row": "16",
+                      "column": "16",
+                      "isLinked": true
+                    },
+                    "padding": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
+                      "isLinked": true
+                    },
+                    "padding_mobile": {
+                      "unit": "px",
+                      "top": "16",
+                      "right": "16",
+                      "bottom": "16",
+                      "left": "16",
+                      "isLinked": true
+                    },
+                    "background_background": "classic",
+                    "background_color": "#FFFFFF",
+                    "border_border": "solid",
+                    "border_width": {
+                      "unit": "px",
+                      "top": "3",
+                      "right": "3",
+                      "bottom": "3",
+                      "left": "3",
+                      "isLinked": true
+                    },
+                    "border_color": "#FF9F08",
+                    "border_radius": {
+                      "unit": "px",
+                      "top": "14",
+                      "right": "14",
+                      "bottom": "14",
+                      "left": "14",
+                      "isLinked": true
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "000007b",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "settings": {
+                        "title": "👇 অর্ডার করতে নিচের ফর্মটি পূরণ করুন",
+                        "header_size": "h2",
+                        "align": "center",
+                        "title_color": "#16120E",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Hind Siliguri",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 21,
+                          "sizes": []
+                        },
+                        "typography_font_size_mobile": {
+                          "unit": "px",
+                          "size": 21,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "700",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.35,
+                          "sizes": []
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "0000078",
+                  "elType": "widget",
+                  "widgetType": "shortcode",
+                  "settings": {
+                    "shortcode": "[woocommerce_checkout]",
+                    "custom_css": "selector {color:#241b14; font-family:\"Hind Siliguri\",sans-serif; min-width:0;}\nselector *, selector *::before, selector *::after {box-sizing:border-box;}\nselector .woocommerce form .form-row input.input-text, selector .woocommerce form .form-row textarea, selector .woocommerce form .form-row select {width:100%; max-width:100%; border:2px solid #244b21; border-radius:3px; background:#fff; min-height:46px; padding:10px; color:#261b15; font:inherit;}\nselector .woocommerce #customer_details, selector .woocommerce #order_review, selector .woocommerce #order_review_heading {width:100%; float:none; clear:both;}\nselector .woocommerce .col2-set .col-1, selector .woocommerce .col2-set .col-2 {float:none; width:100%;}\nselector .woocommerce table.shop_table {width:100%; border-collapse:collapse; font-size:15px;}\nselector .woocommerce table.shop_table th, selector .woocommerce table.shop_table td {padding:12px 6px; overflow-wrap:anywhere;}\nselector .woocommerce ul#shipping_method {padding-left:0; list-style:none;}\nselector .woocommerce ul#shipping_method li {padding:10px; border:1px solid #ddd; margin:0;}\nselector .woocommerce #payment {background:#f7f7f7; border-radius:4px;}\nselector .woocommerce #payment div.payment_box {background:#eaeaea; color:#333;}\nselector .woocommerce #place_order {width:100%; float:none; white-space:normal; background:#c90050; color:#fff; border:1px solid #ff4b1b; border-radius:3px; padding:17px 14px; font:700 17px \"Hind Siliguri\",sans-serif; cursor:pointer;}\nselector .woocommerce a {color:#df4619;}\nselector .woocommerce input:focus-visible, selector .woocommerce button:focus-visible {outline:3px solid #ff9f08; outline-offset:2px;}\n@media(max-width:767px) {selector .woocommerce .form-row {float:none; width:100%;} selector .woocommerce table.shop_table {font-size:14px;} selector .woocommerce .woocommerce-checkout-review-order {min-width:0;}}\n"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000083",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "width": {
+          "unit": "%",
+          "size": 100,
+          "sizes": []
+        },
+        "flex_direction": "column",
+        "flex_gap": {
+          "unit": "px",
+          "row": "16",
+          "column": "16",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "48",
+          "right": "48",
+          "bottom": "48",
+          "left": "48",
+          "isLinked": true
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "18",
+          "right": "18",
+          "bottom": "18",
+          "left": "18",
+          "isLinked": true
+        },
+        "background_background": "classic",
+        "background_color": "#FAFFFF",
+        "boxed_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "0000082",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100,
+              "sizes": []
+            },
+            "flex_direction": "column",
+            "flex_gap": {
+              "unit": "px",
+              "row": "16",
+              "column": "16",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "0000080",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "FOLLOW US",
+                "header_size": "div",
+                "align": "center",
+                "title_color": "#FF4B1B",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.35,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000081",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>[CONTACT INFORMATION] · [SOCIAL LINKS]</p>",
+                "align": "center",
+                "text_color": "#542B17",
+                "typography_typography": "custom",
+                "typography_font_family": "Hind Siliguri",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65,
+                  "sizes": []
+                },
+                "custom_css": "selector p:last-child {margin-bottom:0;}"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
